@@ -8,6 +8,6 @@ GET: /mails - to get the list of ten mails
 
 GET: /mail/:id - to get the body of that mail
 
-you will be redircted to the google auth page when not allowed or the session has experied
+You will be redirected to the google auth page when not allowed or the session has expired.
 
-after allow the rights to acces the mail go to any of the url to get the result
+After allowing the rights to access the mail go to any of the url to get the result
